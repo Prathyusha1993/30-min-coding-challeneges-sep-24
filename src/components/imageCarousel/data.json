@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "image":"https://cdn.hswstatic.com/gif/gettyimages-85120553.jpg",
+        "alt":"Image 1"
+    },
+    {
+        "id":2,
+        "image":"https://www.passportandpixels.com/wp-content/uploads/2020/11/Laikipia-Day-3_R5-115_pp.jpg",
+        "alt":"Image 2"
+    },
+    {
+        "id":3,
+        "image":"https://aldf.org/wp-content/uploads/2018/05/lamb-iStock-665494268-16x9-e1559777676675.jpg",
+        "alt":"Image 3"
+    },
+    {
+        "id":4,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXG_7cuVyeYi_pUgjpo7jg0-AgdjSld2bHJQ&s",
+        "alt":"Image 4"
+    },
+    {
+        "id":5,
+        "image":"https://animals.sandiegozoo.org/sites/default/files/2016-08/hero_zebra_animals.jpg",
+        "alt":"Image 5"
+    },
+    {
+        "id":6,
+        "image":"https://ideas.ted.com/wp-content/uploads/sites/3/2020/03/final_credit-alamy-1.jpg",
+        "alt":"Image 6"
+    }
+]
