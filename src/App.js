@@ -24,9 +24,9 @@ function App() {
       <ValidateForm />
       <AccordionComp />
       <TabNavigation />
-      {/* <ShoppingCart /> */}
+      <ShoppingCart />
       {/* <DarkTheme /> */}
-      <ContextApp/>
+      {/* <ContextApp/> */}
     </div>
   );
 }
