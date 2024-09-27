@@ -11,6 +11,8 @@ import TabNavigation from './components/tabNavigation/TabNavigation';
 import Todo from './components/todoApp/Todo';
 import ToggleComp from './components/toggle/ToggleComp';
 import ContextApp from './components/context api/ContextApp';
+import StopWatch from './components/stop watch/StopWatch';
+import VotingApp from './components/VotingApp/VotingApp';
 
 function App() {
   return (
@@ -27,6 +29,8 @@ function App() {
       <ShoppingCart />
       {/* <DarkTheme /> */}
       {/* <ContextApp/> */}
+      <StopWatch />
+      <VotingApp />
     </div>
   );
 }
