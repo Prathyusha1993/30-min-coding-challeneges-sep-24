@@ -13,6 +13,7 @@ import ToggleComp from './components/toggle/ToggleComp';
 import ContextApp from './components/context api/ContextApp';
 import StopWatch from './components/stop watch/StopWatch';
 import VotingApp from './components/VotingApp/VotingApp';
+import GetCities from './components/codingChalalenge/GetCities';
 
 function App() {
   return (
@@ -31,6 +32,7 @@ function App() {
       {/* <ContextApp/> */}
       <StopWatch />
       <VotingApp />
+      <GetCities />
     </div>
   );
 }
